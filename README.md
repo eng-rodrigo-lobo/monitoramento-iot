@@ -1,6 +1,6 @@
 # IoT Monitoring System
 
-![Dashboard Preview](docs/dashboard-preview.png) <!-- Adicione uma imagem depois -->
+<!-- Adicione uma imagem depois ![Dashboard Preview](docs/dashboard-preview.png) -->
 
 Sistema completo de monitoramento IoT com coleta de dados via MQTT, armazenamento em banco de dados MySQL, visualização em dashboard web e geração de relatórios.
 
