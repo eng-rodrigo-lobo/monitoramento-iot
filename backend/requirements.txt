@@ -1,0 +1,7 @@
+paho-mqtt==1.6.1
+mysql-connector-python==8.0.33
+python-dotenv==1.0.0
+fastapi==0.95.2
+uvicorn==0.22.0
+pandas==2.0.3
+sqlalchemy==2.0.19
